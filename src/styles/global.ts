@@ -27,6 +27,15 @@ body {
   -webkit-font-smoothing: antialised;
 }
 
+body, input, textarea, button {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+  font-weight: 700;
+}
+
 button {
   cursor: pointer;
 }
